@@ -20,7 +20,7 @@ Versión de Android: 8.0 (Oreo) o superior.
 
 Conexión: Red Wi-Fi estable (misma red que la PC) o conexión vía cable USB (requiere activar Depuración USB).
 
-App: Instalar el APK de HiveMind Coordinator en cada dispositivo.
+SDK: Instalar el APK de HiveMind Coordinator en cada dispositivo.
 
 3. 📦 Integración del SDK (SDK.zip)
 Si eres desarrollador, puedes crear tus propios scripts de IA que utilicen el enjambre. Dentro del archivo SDK.zip encontrarás las herramientas necesarias.
@@ -33,10 +33,11 @@ Asegúrate de tener instaladas las dependencias de comunicación: pip install gr
 
 Importa el cliente en tu código:
 
-Python
-import hivemind_sdk  # El SDK incluido en el zip
-# HiveMind detectará automáticamente el puerto activo de la App Desktop
+En el ejemplo de modelo Yolo que te mostramos viene una ligera guia de como puedes empezar  a importar el SDK de manera correcta.
+
+
 4. 🚀 Ejemplo Práctico: YOLOv8 (Visión Artificial)
+   
 He incluido un modelo listo para usar en la carpeta Modelos Ejemplo.
 
 Modelo: yolov8n_float32.tflite.
@@ -46,6 +47,11 @@ Uso: Selecciona este modelo desde la interfaz de HiveMind Desktop. Verás cómo 
 Dato Curioso: Este modelo puede procesar imágenes en milisegundos cuando distribuyes la carga entre varios celulares.
 
 NOTA: para poder descomprimir todas las partes de el aplicativo usa 7Zip y usa todas las partes para complementar el .exe
+
+5. Aplicación para Windows V1.0.0. (Temporal para la versión Beta)
+  Ve a Aplicación de partes, descarga las partes necesarias dentro de la misma y usa 7 Zip File Manager para reorganizar y reconstruir el .EXE de la aplicación Core, instala y acepta las politicas de privacidad y terminos de uso, una vez aceptado podrás empezar a probar la herramienta.
+
+
 🔒 Confianza y Seguridad
 Protección de Datos: HiveMind funciona de forma 100% Local. Tus modelos y datos nunca salen de tu red privada; la comunicación entre la PC y los celulares está encriptada y protegida por tokens únicos de sesión.
 
