@@ -45,6 +45,7 @@ Uso: Selecciona este modelo desde la interfaz de HiveMind Desktop. Verás cómo 
 
 Dato Curioso: Este modelo puede procesar imágenes en milisegundos cuando distribuyes la carga entre varios celulares.
 
+NOTA: para poder descomprimir todas las partes de el aplicativo usa 7Zip y usa todas las partes para complementar el .exe
 🔒 Confianza y Seguridad
 Protección de Datos: HiveMind funciona de forma 100% Local. Tus modelos y datos nunca salen de tu red privada; la comunicación entre la PC y los celulares está encriptada y protegida por tokens únicos de sesión.
 
