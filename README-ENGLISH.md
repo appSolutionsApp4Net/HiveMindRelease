@@ -1,5 +1,5 @@
 HiveMind Release
-Download required files for this beta version: Latest Release V1.0.1
+Download required files for this beta version: https://github.com/appSolutionsApp4Net/HiveMindRelease/releases/tag/V1.0.1
 
 🛡️ Getting Started Guide: HiveMind Tensor Desktop Welcome to the Distributed Artificial Intelligence engine for desktop. This guide will help you set up your processing "swarm" in just a few minutes.
 
